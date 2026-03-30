@@ -79,8 +79,8 @@ Use Cases
 
 This project can be useful for:
 
-Agricultural data analysis
-Plant growth monitoring
-Predictive modeling in farming
-Machine learning practice with categorical data
-Educational demonstrations of KNN classification
+Agricultural data analysis,
+Plant growth monitoring,
+Predictive modeling in farming,
+Machine learning practice with categorical data, and 
+Educational demonstrations of KNN classification.
